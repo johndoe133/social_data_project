@@ -1,4 +1,3 @@
 # Title
 
 {% include TimeSlider.html %}
-
