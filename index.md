@@ -1,8 +1,8 @@
-# Trying something
+# Trying something 2
 By:
 - Eric Jensen (s174379)
 - Morten Bjerre (s174397)
 
-<body>
+<html>
 {% include TimeSlider.html %}
-</body>
+</html>
