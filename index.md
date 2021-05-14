@@ -1,7 +1,3 @@
-# body and html
+# Analyzing Standardized Testing Scores in San Francisco
 
-<html>
-<body>
-{% include TimeSlider.html %}
-</body>
-</html>
+<iframe src="/_includes/TimeSlider.html", width="100%", height="100%", style="border:none;"/></iframe>
