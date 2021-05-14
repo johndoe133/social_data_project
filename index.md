@@ -1,3 +1,5 @@
 # Analyzing Standardized Testing Scores in San Francisco
 
-<iframe src="/_includes/TimeSlider.html", width="100%", height="100%", style="border:none;"/></iframe>
+Testing 1
+
+<iframe src="/_includes/TimeSlider.html" style="border:none;height:700px;width:650px;"/>
